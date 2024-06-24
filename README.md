@@ -1,4 +1,4 @@
-<h1 text-align="center">Hogwarts Houses</h1>
+<h1 align="center">Hogwarts Houses</h1>
 
 
 # Description
