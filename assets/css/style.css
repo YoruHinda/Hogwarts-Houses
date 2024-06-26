@@ -3,16 +3,18 @@
     padding: 0;
 }
 
-#MainTitle {
-    text-align: center;
-}
-
-.Jump {
+#HomeCrest {
     display: inline-block;
-    margin: 10px;
 }
 
-#HousesBanner {}
+#HomeCrest>img {
+    width: 5vw;
+}
+
+.HouseSelector {
+    display: inline-block;
+    margin: 5px;
+}
 
 #HousesBanner>img {
     width: 100%;
@@ -21,11 +23,31 @@
     height: 55vh;
 }
 
+#MainContent {
+    margin: auto;
+    width: 50%;
+}
+
+#MainContent>h1 {
+    text-align: center;
+}
+
 article {
-    height: 100%;
+    width: 100%;
     display: flex;
 }
 
-.HouseImageText {}
+.HouseImage>img {
+    height: 100%;
+    width: 100%;
+}
 
-.HouseText {}
+.HouseText {
+    width: 70%;
+}
+
+footer {
+    margin: 10px;
+    text-align: center;
+    font-size: 1.2em;
+}
