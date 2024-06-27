@@ -9,9 +9,9 @@ Site in Html and Css hosted in github page. about this site is informative about
 
 - HTML / CSS
 
-# How To Access
+# How To Use
 
-Access Web Link In github repository or access by here: 
+Clone Git Repository And Execute in your browser index file.
 
 # License
 
