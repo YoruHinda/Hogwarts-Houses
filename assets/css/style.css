@@ -84,19 +84,19 @@ nav {
 }
 
 #gryffindorpage {
-    background-color: red;
+    background: linear-gradient(#1B0101, #A81800, #1B0101);
 }
 
 #ravenclawpage {
-    background-color: blue;
+    background: linear-gradient(#020108, #1659A4, #08082C);
 }
 
 #slytherinpage {
-    background-color: green;
+    background: linear-gradient(#010401, #2F562D, #081B02);
 }
 
 #hufflepuffpage {
-    background-color: yellow;
+    background: linear-gradient(#312100, #908E29, #5A4200);
 }
 
 article {
