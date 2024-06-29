@@ -130,6 +130,11 @@ article {
     width: 70%;
 }
 
+.HouseText>h1 {
+    font-family: 'Harry';
+    font-size: 3em;
+}
+
 footer {
     margin: 10px;
     text-align: center;
