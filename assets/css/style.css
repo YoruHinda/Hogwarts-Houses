@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'harry';
+    src: url('/assets/fonts/harry.TTF');
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -27,14 +32,16 @@ nav {
 }
 
 .HouseSelector {
-    font-size: 1.8em;
+    font-size: 2em;
     padding: 0 3em 0 3em;
+
 }
 
 .HouseSelector>a {
     text-decoration: none;
     color: white;
     transition-duration: 0.5s;
+    font-family: 'harry';
 }
 
 #gryffindorselector>a:hover {
@@ -68,6 +75,8 @@ nav {
 }
 
 #MainContent>h1 {
+    font-family: 'harry';
+    font-size: 3em;
     text-align: center;
 }
 
