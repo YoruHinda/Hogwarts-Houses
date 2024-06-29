@@ -10,6 +10,11 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+body,
+html {
+    background-color: #1C1C1C;
+}
+
 header {
     height: 100vh;
     scroll-snap-align: start;
@@ -128,8 +133,18 @@ article {
 footer {
     margin: 10px;
     text-align: center;
-    font-size: 1.2em;
+    font-size: 1em;
+    color: white;
 
     scroll-snap-align: start;
     scroll-snap-stop: always;
+}
+
+footer>p>a {
+    text-decoration: none;
+    color: white;
+}
+
+footer>p>a:hover {
+    color: darkcyan;
 }
