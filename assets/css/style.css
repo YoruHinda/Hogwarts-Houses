@@ -124,15 +124,46 @@ article {
 .HouseImage>img {
     height: 100%;
     width: 100%;
+    border-radius: 20%;
 }
 
 .HouseText {
     width: 70%;
+    font-size: 1.5em;
 }
 
-.HouseText>h1 {
+.HouseImage>h1 {
     font-family: 'Harry';
     font-size: 3em;
+    text-align: center;
+}
+
+#foundergodric{
+    color: #A81800;
+    text-align: center;
+}
+
+#founderrowena{
+    color: #1659A4;
+    text-align: center;
+}
+
+#foundersalazar{
+    color: #2F562D;
+    text-align: center;
+}
+
+#founderhelga{
+    color: #908E29;
+    text-align: center;
+}
+
+.founder > h1{
+    font-size: 2em;
+}
+
+.founder > img{
+    border-radius: 5%;
 }
 
 footer {
