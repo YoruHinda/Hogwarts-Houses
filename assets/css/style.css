@@ -130,6 +130,7 @@ article {
 .HouseText {
     width: 70%;
     font-size: 1.5em;
+    margin: 5%;
 }
 
 .HouseImage>h1 {
